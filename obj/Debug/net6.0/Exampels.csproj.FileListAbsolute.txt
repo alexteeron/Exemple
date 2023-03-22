@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\Exampels\bin\Debug\net6.0\Exampels.exe
+C:\Users\Александр\Desktop\Exampels\bin\Debug\net6.0\Exampels.deps.json
+C:\Users\Александр\Desktop\Exampels\bin\Debug\net6.0\Exampels.runtimeconfig.json
+C:\Users\Александр\Desktop\Exampels\bin\Debug\net6.0\Exampels.dll
+C:\Users\Александр\Desktop\Exampels\bin\Debug\net6.0\Exampels.pdb
+C:\Users\Александр\Desktop\Exampels\obj\Debug\net6.0\Exampels.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\Exampels\obj\Debug\net6.0\Exampels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\Exampels\obj\Debug\net6.0\Exampels.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\Exampels\obj\Debug\net6.0\Exampels.AssemblyInfo.cs
+C:\Users\Александр\Desktop\Exampels\obj\Debug\net6.0\Exampels.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Exampels\obj\Debug\net6.0\Exampels.dll
+C:\Users\Александр\Desktop\Exampels\obj\Debug\net6.0\refint\Exampels.dll
+C:\Users\Александр\Desktop\Exampels\obj\Debug\net6.0\Exampels.pdb
+C:\Users\Александр\Desktop\Exampels\obj\Debug\net6.0\Exampels.genruntimeconfig.cache
+C:\Users\Александр\Desktop\Exampels\obj\Debug\net6.0\ref\Exampels.dll
