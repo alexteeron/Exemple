@@ -39,7 +39,7 @@
 # Debug files
 *.dSYM/
 *.su
-*.idb
+*.  
 *.pdb
 
 # Kernel Module Compile Results
