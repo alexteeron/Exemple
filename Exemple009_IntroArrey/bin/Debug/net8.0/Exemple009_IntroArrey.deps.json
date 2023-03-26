@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exemple009_IntroArrey/1.0.0": {
+        "runtime": {
+          "Exemple009_IntroArrey.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exemple009_IntroArrey/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\Exampels\Exemple\Exemple010_Metod\bin\Debug\net8.0\Exemple010_Metod.exe
+C:\Users\Александр\Desktop\Exampels\Exemple\Exemple010_Metod\bin\Debug\net8.0\Exemple010_Metod.deps.json
+C:\Users\Александр\Desktop\Exampels\Exemple\Exemple010_Metod\bin\Debug\net8.0\Exemple010_Metod.runtimeconfig.json
+C:\Users\Александр\Desktop\Exampels\Exemple\Exemple010_Metod\bin\Debug\net8.0\Exemple010_Metod.dll
+C:\Users\Александр\Desktop\Exampels\Exemple\Exemple010_Metod\bin\Debug\net8.0\Exemple010_Metod.pdb
+C:\Users\Александр\Desktop\Exampels\Exemple\Exemple010_Metod\obj\Debug\net8.0\Exemple010_Metod.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\Exampels\Exemple\Exemple010_Metod\obj\Debug\net8.0\Exemple010_Metod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\Exampels\Exemple\Exemple010_Metod\obj\Debug\net8.0\Exemple010_Metod.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\Exampels\Exemple\Exemple010_Metod\obj\Debug\net8.0\Exemple010_Metod.AssemblyInfo.cs
+C:\Users\Александр\Desktop\Exampels\Exemple\Exemple010_Metod\obj\Debug\net8.0\Exemple010_Metod.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Exampels\Exemple\Exemple010_Metod\obj\Debug\net8.0\Exemple010_Metod.dll
+C:\Users\Александр\Desktop\Exampels\Exemple\Exemple010_Metod\obj\Debug\net8.0\refint\Exemple010_Metod.dll
+C:\Users\Александр\Desktop\Exampels\Exemple\Exemple010_Metod\obj\Debug\net8.0\Exemple010_Metod.pdb
+C:\Users\Александр\Desktop\Exampels\Exemple\Exemple010_Metod\obj\Debug\net8.0\Exemple010_Metod.genruntimeconfig.cache
+C:\Users\Александр\Desktop\Exampels\Exemple\Exemple010_Metod\obj\Debug\net8.0\ref\Exemple010_Metod.dll
